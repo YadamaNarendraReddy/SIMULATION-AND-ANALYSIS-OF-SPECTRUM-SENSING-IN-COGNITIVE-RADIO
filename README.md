@@ -2,7 +2,9 @@
 This project focuses on Cognitive Radio (CR) technology and its role in efficient spectrum utilization for wireless communication. The goal is to enhance existing Cognitive Radio Networks (CRN) to maximize bandwidth usage while accommodating growing network demands. The study aligns with the IEEE 802.22 standard, which identifies vacant spectrum bands in Digital TV (DTV) channels for use in wireless broadband.
 
 Published paper ID: IJECIERDDEC20211
+
 International Jornal: https://issuu.com/tjprc/docs/2-16-1630051965-1ijecierddec20211
+
 Key Points:
 
 Cognitive Radio & Spectrum Sensing:
