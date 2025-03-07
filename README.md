@@ -1,0 +1,2 @@
+# SIMULATION-AND-ANALYSIS-OF-SPECTRUM-SENSING-IN-COGNITIVE-RADIO
+This project enhances Cognitive Radio (CR) using Double Threshold Cooperative Spectrum Sensing (CSS) for better spectrum utilization. It improves detection accuracy in low SNR by combining local sensing data at a Fusion Center (FC). Simulated in MATLAB &amp; SIMULINK, it optimizes bandwidth allocation and wireless communication efficiency. 
