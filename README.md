@@ -3,7 +3,7 @@ This project focuses on Cognitive Radio (CR) technology and its role in efficien
 
 Published paper ID: IJECIERDDEC20211
 
-International Jornal: https://issuu.com/tjprc/docs/2-16-1630051965-1ijecierddec20211
+International Jornal: https://issuu.com/tjprc/docs/2-16-1630051965-1ijecierddec20211.
 
 Key Points:
 
